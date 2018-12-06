@@ -1,0 +1,18 @@
+hash: 2f1da00f24c8ce3662b98c45b01d1946a826cf6c8f383e97a1d6f0136caf0bfe
+imports:
+- name: github.com/pkg/errors
+  version: 816c9085562cd7ee03e7f8188a1cfd942858cded
+- name: github.com/kr/fs
+  version: 1455def202f6e05b95cc7bfc7e8ae67ae5141eba
+- name: golang.org/x/crypto
+  subpackages:
+  - ed25519/internal/edwards25519
+  - ssh/agent
+  - poly1305
+  - ed25519
+  - internal/chacha20
+  - curve25519
+  - ssh
+  version: 8ac0e0d97ce45cd83d1d7243c060cb8461dda5e9
+updated: '2018-07-03T13:00:25.322302+00:00'
+
